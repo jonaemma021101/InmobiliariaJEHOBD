@@ -1,0 +1,1 @@
+.exe # quitar los ejecutables por exceso de tamaño
